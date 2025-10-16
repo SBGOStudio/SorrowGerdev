@@ -3,7 +3,7 @@
 
 
 ## 🚀 Über mich 
-Mein Name ist Sebastian und ich habe eine schulische Ausbildung zum Fachinformatiker in Anwendungsentwicklung abgeschlossen.
+Mein Name ist Sebastian und ich habe eine schulische Ausbildung zum Fachinformatiker in Anwendungsentwicklung begonnen.
 
 ## Skills
 
